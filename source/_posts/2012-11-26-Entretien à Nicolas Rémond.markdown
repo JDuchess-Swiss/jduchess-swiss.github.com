@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nous entretenons Nicolas Rémond"
+title: "Entretien avec Nicolas Rémond"
 date: 2012-11-26 19:07
 comments: true
 categories: 
@@ -8,9 +8,9 @@ author: Julia Mateo
 ---
 Bonjour à tous !
 
-Pour vous préparer pour le prochain GenevaJug, nous vous offrons en apéritif une entretien avec Nicolas Rémond, committer du projet Gatling qui nous présentera les avantages de cet outil de test de montée en charge ce mardi 27 novembre a la salle HEPIA.
+Pour vous préparer pour le prochain GenevaJug, nous vous offrons en apéritif un entretien avec Nicolas Rémond, committer du projet Gatling. Il nous présentera les avantages de cet outil de test de montée en charge, ce mardi 27 novembre à la salle HEPIA.
 
-{% img left http://jduchess.ch/images/nicolas_remond.jpg 250 250 #2 %}
+{% img left /images/nicolas_remond.jpg 250 250 #2 %}
 
 _Duchess Swiss : Nicolas, pourrais-tu te présenter rapidement et nous expliquer ton parcours ?_
 
@@ -20,11 +20,11 @@ _D.S : Comment as-tu été amené à t'intéresser au projet Gatling et à t'y i
 
 N.R : Pour de gros événements au Stade de France ou pour le Paléo, on a un nombre conséquent de personnes qui viennent en même temps sur notre site pour acheter leur place. C'est quelque chose de compliqué à simuler avec JMeter. J'avais entendu que Stéphane Landelle et Romain Sertelon avaient lancé un nouveau projet open-source. Comme le projet était très jeune, j'ai soumis quelques patchs afin de réussir à exécuter mes tests … et voilà. 
 
-_D.S : Combien de temps consacre-tu en dehors de ton temps de travail à ce projet ?_
+_D.S : Combien de temps consacres-tu en dehors de ton temps de travail à ce projet ?_
 
 N.R : Dur de dire, c'est vraiment très variable et je ne compte pas vraiment. 
 
-{% img right http://jduchess.ch/images/gatling_tool.png  #2 %}
+{% img right /images/gatling_tool.png  #2 %}
 
 _D.S : Selon toi, quelle serait la "super fonctionnalité" de Gatling ?_
 
