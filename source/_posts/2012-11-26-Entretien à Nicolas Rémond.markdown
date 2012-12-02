@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Entretien avec Nicolas Rémond"
+title: "Soirée Gatling Au GenevaJUG, Entretien Avec Nicolas Rémond"
 date: 2012-11-26 19:07
+sharing: true
 comments: true
 categories: 
 author: Julia Mateo
