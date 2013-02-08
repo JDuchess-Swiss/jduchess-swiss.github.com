@@ -1,0 +1,19 @@
+class BasicSimulation extends Simulation {
+
+  def apply = {
+
+    val httpConf = httpConfig.baseURL("http://computer-database.herokuapp.com")
+
+    val scn 
+      = scenario("Play with the Computer Database")
+        .exec(
+          http("Index page")
+            .get("/")
+            .check(
+              css("head title").is("Computers database")
+            )
+        )
+
+    List(scn.configure.users(10).ramp(60).protocolConfig(httpConf))
+  }
+}
