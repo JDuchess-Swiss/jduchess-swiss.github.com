@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Duchess Swiss]]></title>
+  <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
+  <link href="http://JDuchess-Swiss.github.com/"/>
+  <updated>2013-02-08T20:57:00+01:00</updated>
+  <id>http://JDuchess-Swiss.github.com/</id>
+  <author>
+    <name><![CDATA[JDuchess Swiss]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Audrey Neveu presente Programatoo]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2013/02/08/audrey-neveu-presente-programatoo/"/>
+    <updated>2013-02-08T19:32:00+01:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2013/02/08/audrey-neveu-presente-programatoo</id>
+    <content type="html"><![CDATA[<p>Après une petite pause pour Noël nous sommes de retour avec une interview à Audrey Neveu qui a été l&#8217;une des speakers de l&#8217;anniversaire du GenevaJug du dernier 29 Janvier. Audrey Lièvremont, Valérie Sevel, Sébastien Andrivet et moi même lui avons posé quelques questions sur son parcours, l&#8217;apprentissage de la programmation aux enfants et Programatoo.</p>
+
+<p><em>Duchess Swiss : Bonjour Audrey ! Pourrais-tu nous parler un peu de ton parcours et sur quels sont les sujets qui te tiennent a coeur dans l&#8217;univers Java ?</em></p>
+
+<p>Mon parcours est ce que l&#8217;on appelle un parcours &#8220;atypique&#8221; : j&#8217;ai fais une prépa arts appliqués, qui s&#8217;est avérée être une erreur d&#8217;orientation, j&#8217;ai donc commencé à travailler à 18 ans et je n&#8217;ai repris mes études qu&#8217;à 24. C&#8217;est à ce moment que j&#8217;ai découvert le métier de développeur logiciel, et c&#8217;est en formation que j&#8217;ai découvert Java plus précisement. J&#8217;ai rapidement fait connaissance avec les JUGs puisque c&#8217;était les débuts du NormandyJug, et ça m&#8217;a énormément conforté dans mon choix. On ne s&#8217;en rend pas forcément compte lorsque l&#8217;on a toujours baigné dedans, mais avoir un métier où l&#8217;on peut échanger avec des gens aussi passionnés que soi, partager son expérience, obtenir de l&#8217;aide lorsque l&#8217;on bute sur quelquechose, c&#8217;est extraordinaire ! C&#8217;est la raison pour laquelle j&#8217;ai décidé de m&#8217;engager dans la communauté : pour rendre un peu de tout ce qu&#8217;elle m&#8217;a apporté. J&#8217;ai ainsi commencé par m&#8217;engager activement dans Duchess France, puis dans l&#8217;apprentissage de la programmation aux enfants il y a un an, avec ma collègue Aline Paponaud en lançant Programatoo.</p>
+
+<p><em>D. S. : Ayant un pré-ado et un ado, je suis particulièrement intéressé par Programatoo, même si je ne sais pas du tout de quoi il s&#8217;agit. Est-ce qu&#8217;il y a plusieurs type d&#8217;ateliers &#8220;Programatoo&#8221; selon la tranche d&#8217;âge? Que proposez-vous ? des jeux à programmer, des robots à piloter?
+Quel est le langage de programmation utilisé dans les sessions Programatoo afin que ce ne soit au bon niveau de difficulté pour les enfants qui sont présents à la session? Comment avez-vous choisi ce langage ?</em></p>
+
+<p>Nous faisons un seul et même atelier, pour les enfants de 6 à 14 ans où nous allons mélanger différents outils d&#8217;apprentissage de la programmation. L&#8217;objectif est avant tout que les enfants s&#8217;amusent, tout en découvrant l&#8217;outil informatique : c&#8217;est pourquoi nous veillons à avoir toujours plusieurs outils à leurs proposer (Scratch, SmallBasic, Alice, Dr Techniko, Robozzle, &#8230;) , de manière à ce qu&#8217;ils puissent changer si à un moment ils s&#8217;ennuient ou si tout simplement, ils n&#8217;adhèrent pas à l&#8217;outil qu&#8217;on leur propose en premier. On pourrait effectivement mettre des robots, type Lego Mindstorm, mais sur ce genre d&#8217;outils ce qui est intéressant, c&#8217;est d&#8217;amener les enfants vers la réalisation d&#8217;un objectif (d&#8217;une mission par exemple, comme le fait très bien Tasha Carl avec le Sagan Project) ; il faut donc avoir un animateur dédié pour les guider pendant tout l&#8217;atelier et nous ne sommes pas assez nombreux à l&#8217;heure actuelle pour pouvoir le faire. On peut également commencer à les initier plus tôt, mais à la maison, pas en atelier : il faut qu&#8217;ils aient déjà l&#8217;habitude de rester assis et concentrés un long moment, ce qui n&#8217;est pas toujours le cas à 5 ans ;)</p>
+
+<p><em>D. S. : Mon fils ainé (13,5 ans) a réussi à installer sur son ordinateur portable un serveur MineCraft en regardant des vidéo d&#8217;instruction sur Youtube. Youtube est &#8220;le média&#8221; de prédilection des ados. (Je ne supporte plus lavoix de Bob Lennon, minecrafter youtuber). Est-ce que des vidéos de Programatoo sont disponibles sur Youtube?</em></p>
+
+<p>Pas à l&#8217;heure actuelle, mais c&#8217;est une idée que nous avons depuis un moment car à ce sujet, on retrouve la même problématique qu&#8217;avec les outils : il en existe beaucoup, mais pas en langue française. C&#8217;est donc en réflexion :)</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/Audrey4.jpg" width="250" height="250" title="#2" ></p>
+
+<p><em>D. S. : Mon fils ainé, toujours lui, veut faire &#8220;informaticien&#8221; plus tard, comme Papa et Maman (ce n&#8217;est pas très original!). En fait, il ne trouve pas normal que son temps à lui sur l&#8217;ordi soit limité! Bref, j&#8217;aimerai qu&#8217;il ait uneautre approche que les jeux et les vidéos avec un ordi. Que peut-on lui proposer? Peut-il être à cet âge autonome avec des taches de programmation?</em></p>
+
+<p>Malheureusement, pour l&#8217;apprentissage de la programmation comme pour le reste de l&#8217;éducation, il n&#8217;y a pas de recette miracle :p Il n&#8217;y a pas deux ados pareils et ce qui va plaire à l&#8217;un ne plaira pas à l&#8217;autre. Le mieux c&#8217;est d&#8217;essayer plusieurs outils, éventuellement en lui proposant des petits défis à relever : avec Scratch ou Alice, ça peut être la conception d&#8217;un jeu de type Pong ou Tetris par exemple, avec Small Basic ce serait peut être plus celle d&#8217;une calculatrice graphique; et peut être que ce qui lui conviendra le mieux finalement c&#8217;est de créer un parcours avec des objectifs et des obstacles, puis de programmer un robot type Lego Mindstorm pour faire ce parcours. Donc oui, il peut tout à fait être autonome avec des tâches de programmation, mais dans un premier temps, il aura sûrement besoin qu&#8217;on lui souffle les idées car il ne saura peut être pas tout ce qu&#8217;il peut faire avec ces outils et éventuellement qu&#8217;on l&#8217;aide à s&#8217;organiser (découper un objectif en petite tâches par exemple).</p>
+
+<p><em>D. S. : Audrey, avec ton feedback, qu&#8217;est-ce qui marche le mieux avec les ado? les pré-ado? 7-10 ans et les plus petits?
+As-tu déjà expérimenté avec des enfants des langages comme Alice3, Scratch ou &#8220;Move the Turtle&#8221; (sur iPad) ? Si oui, est-ce que les enfants ne se lassent pas vite car ces environnements ne sont pas toujours trèsriches ?</em></p>
+
+<p>Avec les petits, jusqu&#8217;à 7/8 ans ce que je préfère c&#8217;est Dr Techniko : ils n&#8217;ont pas besoin de savoir lire pour y jouer, et en plus il faut utiliser papa ou maman comme robot &#8230; c&#8217;est la perspective de pouvoir inverser l&#8217;ordre établi, autant dire que le succès est garanti ! Ensuite et sans distinction d&#8217;âge, c&#8217;est Small Basic ou Scratch, selon la préférence de l&#8217;enfant. Ils comprennent très vite qu&#8217;il n&#8217;y a pas de limite à ce qu&#8217;ils peuvent réaliser, aussi, si l&#8217;outil leur plaît, ils y passeront des heures sans problèmes.</p>
+
+<p><em>D. S. : Est-ce que tu as toi-même développé quand tu étais enfant ou adolescente ? Si oui, qu&#8217;as-tu développé ?</em></p>
+
+<p>Hormis les cours de Logo à 8 ans à l&#8217;école, malheureusement non &#8230; J&#8217;ai démonté mes pc, les ai exploré dans tous les sens, j&#8217;ai même joué avec le pseudo shell offert par microsoft mais jamais développé. Mon premier pc était déjà sous windows 95, donc je n&#8217;ai pas eu le loisir de coder des jeux sur disquette, et je n&#8217;avais personne dans mon entourage pour me mettre un livre de programmation entre les mains; sans quoi je n&#8217;aurai sûrement pas eu de problèmes d&#8217;orientation ! :) C&#8217;est une de raisons qui font que nous aimerions arriver, Aline et moi, a emmener la programmation en dehors de la communauté : pour toucher les enfants qui n&#8217;ont pas de geeks dans leur entourage.</p>
+
+<p><em>D. S. : Lors des ateliers, as-tu noté une différence entre garçon et fille ? (sur ce qui les intéresse, la façon de comprendre les choses, etc.)</em></p>
+
+<p>Aucune ! Chaque enfant est différent, chacun a sa logique, sa façon d&#8217;aborder les choses mais surtout, ils ne sont pas encore conditionnés comme nous pouvons l&#8217;être inconsciemment à l&#8217;âge adulte. Ils osent tout, sans se poser de questions, et c&#8217;est ce qui est génial !</p>
+
+<p><em>D. S. : Certains jeux de programmation pour les enfants sont très orientés &#8220;garçon&#8221;. C&#8217;est, à mon avis, le cas de Mindstorm de Lego (il n&#8217;y a qu&#8217;à regarder les pubs de Lego: que des garçons). Est-ce que tu connais des équivalents qui pourraient plaire aux filles ? Ou est-ce que finalement cela n&#8217;est pas tellement un problème ?</em></p>
+
+<p>Je pense que chercher des équivalents pour fille est un faux problème : lorsque j&#8217;étais petite, j&#8217;étais passionnée de Lego. Mais comme j&#8217;étais une fille, je n&#8217;avais que des barbies. Des barbies, des barbies, et encore des barbies &#8230; Heureusement j&#8217;avais une tante &#8220;rebelle&#8221;, qui a enfreint la consigne et m&#8217;a offert des Legos. Et pas n&#8217;importe lesquels : la gare, le train électrique, et même des legos Technics ! Voyant que ça me passionnait nettement plus que les barbies, ma mère a plié et a fini par m&#8217;acheter les premiers Legos pour filles : un ensemble pour construire une maison, le tout merveilleusement &#8230;. rose. Ça n&#8217;a jamais été mes legos préférés :) Je crois que si un enfant, garçon ou fille, est intéressé par ça, il ira vers ce type de jeu sans se préoccuper du packaging, sans chercher à savoir si ce sont des jouets pour filles ou pour garçons. Ce qui l&#8217;intéresse est au delà de tout ça, et c&#8217;est tant mieux. D&#8217;ailleurs à la fin du premier coding goûter que j&#8217;ai fait, c&#8217;était l&#8217;une des filles qui réclamait des Lego Mindstorms à son papa ;)</p>
+
+<p>Merci beaucoup Audrey ! Nous espérons te revoir bientôt en Suisse pour parler sur Programatoo ou sur d&#8217;autres sujets.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Soirée Gatling Au GenevaJUG, Entretien Avec Nicolas Rémond]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2012/11/26/Entretien+a%CC%80+Nicolas+Re%CC%81mond/"/>
+    <updated>2012-11-26T19:07:00+01:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2012/11/26/Entretien à Nicolas Rémond</id>
+    <content type="html"><![CDATA[<p>Bonjour à tous !</p>
+
+<p>Pour vous préparer pour le prochain GenevaJug, nous vous offrons en apéritif un entretien avec Nicolas Rémond, committer du projet Gatling. Il nous présentera les avantages de cet outil de test de montée en charge, ce mardi 27 novembre à la salle HEPIA.</p>
+
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/nicolas_remond.jpg" width="250" height="250" title="#2" ></p>
+
+<p><em>Duchess Swiss : Nicolas, pourrais-tu te présenter rapidement et nous expliquer ton parcours ?</em></p>
+
+<p>N.R :  J&#8217;ai commencé ma carrière à Singapour, puis je suis parti en Californie. Là, je me suis dit que le rêve américain n&#8217;était peut-être pas pour moi et maintenant, ça fait 6 ans que je vis à Genève. Je travaille pour la société Secutix, un spécialiste de la billetterie en Europe.</p>
+
+<p><em>D.S : Comment as-tu été amené à t&#8217;intéresser au projet Gatling et à t&#8217;y impliquer ?</em></p>
+
+<p>N.R : Pour de gros événements au Stade de France ou pour le Paléo, on a un nombre conséquent de personnes qui viennent en même temps sur notre site pour acheter leur place. C&#8217;est quelque chose de compliqué à simuler avec JMeter. J&#8217;avais entendu que Stéphane Landelle et Romain Sertelon avaient lancé un nouveau projet open-source. Comme le projet était très jeune, j&#8217;ai soumis quelques patchs afin de réussir à exécuter mes tests … et voilà.</p>
+
+<p><em>D.S : Combien de temps consacres-tu en dehors de ton temps de travail à ce projet ?</em></p>
+
+<p>N.R : Dur de dire, c&#8217;est vraiment très variable et je ne compte pas vraiment.</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/gatling_tool.png" title="#2" ></p>
+
+<p><em>D.S : Selon toi, quelle serait la &#8220;super fonctionnalité&#8221; de Gatling ?</em></p>
+
+<p>N.R : La performance brute et le fait que les scénarios soient écrits à l&#8217;aide d&#8217;un DSL. Dur de choisir entre ces deux points.</p>
+
+<p><em>D.S : Pourrais-tu nous expliquer le fonctionnement asynchrone de Gatling? En quoi est-il plus intéressant que le système classique &#8220;un thread / un user&#8221; ?</em></p>
+
+<p>N.R : A partir de 500 users/threads en parallèles, le coût du changement de contextes devient très important et du coup, on perd en précision et la simulation n&#8217;est plus vraiment correct. Gatling repose sur deux briques essentielles : Async-Http-Client (Netty) et Akka. C&#8217;est grâce à elles qu&#8217;il a été possible d&#8217;implémenter un système asynchrone.</p>
+
+<p><em>D.S : Quelle est l&#8217;avantage d&#8217;utiliser Akka ?</em></p>
+
+<p>N.R : C&#8217;est ce qui nous permet d&#8217;avoir une tel montée en charge possible.</p>
+
+<p><em>D.S : Quelles sont les motivations qui ont amené ses créateurs à l&#8217;implémenter en Scala plutôt qu&#8217;en un autre langage (java&#8230;)? Quels en sont les avantages et les inconvénients ?</em></p>
+
+<p>N.R : Comme Akka est écrit en Scala, ils leur a paru naturel d&#8217;essayer ce langage. De plus, c&#8217;est plus simple d&#8217;écrire un DSL en Scala qu&#8217;en Java.</p>
+
+<p><em>D.S : A quoi ressemble un scénario  Gatling? Pourrais-tu nous en montrer un exemple?</em></p>
+
+<div><script src='https://gist.github.com/4149815.js?file='></script>
+<noscript><pre><code>class BasicSimulation extends Simulation {
+
+  def apply = {
+
+    val httpConf = httpConfig.baseURL(&quot;http://computer-database.herokuapp.com&quot;)
+
+    val scn 
+      = scenario(&quot;Play with the Computer Database&quot;)
+        .exec(
+          http(&quot;Index page&quot;)
+            .get(&quot;/&quot;)
+            .check(
+              css(&quot;head title&quot;).is(&quot;Computers database&quot;)
+            )
+        )
+
+    List(scn.configure.users(10).ramp(60).protocolConfig(httpConf))
+  }
+}
+</code></pre></noscript></div>
+
+
+<p><em>D.S : Le fait que les scénarios soient écrit en Scala n&#8217;est-il pas pénalisant pour des ingénieurs qualité qui ne seraient pas développeurs ?</em></p>
+
+<p>N.R : Pas vraiment. Le DSL est simple à comprendre et on peut écrire beaucoup de chose en ce limitant à ce DSL.</p>
+
+<p><em>D.S : Quelles sont les évolutions possibles de Gatling, les points qui restent à améliorer?</em></p>
+
+<p>N.R : Clustering, Websocket..</p>
+
+<p>Merci beaucoup à Nicolas d&#8217;avoir répondu à toutes nos questions et pour le reste, n&#8217;oubliez pas&#8230; soyez nombreux ce Mardi 27 au GenevaJug !</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Le blog des JDuchess Swiss is out]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2012/11/25/Le+blog+des+jduchess+swiss+is+out/"/>
+    <updated>2012-11-25T19:07:00+01:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2012/11/25/Le blog des jduchess swiss is out</id>
+    <content type="html"><![CDATA[<p>Bonjour à tous !</p>
+
+<p>Le blog des Duchess Swiss est inauguré. Depuis ici nous vous maintiendrons informés de toutes nos activités. Restez a l&#8217;écoute !</p>
+]]></content>
+  </entry>
+  
+</feed>
