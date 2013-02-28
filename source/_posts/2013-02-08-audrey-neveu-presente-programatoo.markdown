@@ -25,7 +25,7 @@ _D. S. : Mon fils ainé (13,5 ans) a réussi à installer sur son ordinateur por
 
 Pas à l'heure actuelle, mais c'est une idée que nous avons depuis un moment car à ce sujet, on retrouve la même problématique qu'avec les outils : il en existe beaucoup, mais pas en langue française. C'est donc en réflexion :)
 
-{% img right /images/Audrey4.jpg 250 250 #2 %}
+{% img right http://jduchess.ch/images/audrey4.JPG 250 250 %}
 
 _D. S. : Mon fils ainé, toujours lui, veut faire "informaticien" plus tard, comme Papa et Maman (ce n'est pas très original!). En fait, il ne trouve pas normal que son temps à lui sur l'ordi soit limité! Bref, j'aimerai qu'il ait uneautre approche que les jeux et les vidéos avec un ordi. Que peut-on lui proposer? Peut-il être à cet âge autonome avec des taches de programmation?_
  
