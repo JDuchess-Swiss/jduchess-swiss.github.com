@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2013-02-28T23:25:56+01:00</updated>
+  <updated>2013-03-20T23:05:01+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Soirée Hacking au GenevaJug]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2013/03/20/soiree-hacking-au-genevajug/"/>
+    <updated>2013-03-20T20:52:00+01:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2013/03/20/soiree-hacking-au-genevajug</id>
+    <content type="html"><![CDATA[<p>Ce mois-ci le sujet du GenevaJug a été la sécurité. Sébastien Andrivet, cofonder de l&#8217;entreprise ADVTOOLS et membre jDuchess, nous a dévoilé les vulnérabilités en sécurité d&#8217;un MDM et une application mobile en direct. Voici l&#8217;interview que nous lui avons fait la veille du GenevaJug.</p>
+
+<p><em>Duchess Swiss : Bonjour Sébastien ! Pourrais-tu te présenter et nous expliquer un peu ton parcours ?</em></p>
+
+<p>Je m&#8217;appelle Sebastien Andrivet. J&#8217;ai 41 ans. J&#8217;ai commencé assez tôt à m&#8217;intéresser aux ordinateurs. En 1982, j&#8217;ai acheté et monté ma première machine (au fer à souder). C&#8217;était en kit pour être moins cher. J&#8217;ai assez vite détesté le BASIC qui était livré avec et j&#8217;ai surtout fait de l&#8217;assembleur (des jeux, un désassembler, …). Ensuite, j&#8217;ai suivi les différents stades de la microinformatique avec l&#8217;Apple IIe, Windows (version 2.0 !), un peu le Macintosh, etc. J&#8217;ai utilisé pas mal de langages et j&#8217;adorais Smalltalk. Dans les années 90, j&#8217;ai trouvé du travail pendant mes études universitaires: dans un laboratoire d&#8217;électronique et dans une société éditrice de logiciels. Je faisais principalement du C, du C++ et de l&#8217;assembleur sous Windows. J&#8217;ai surtout appris à travailler dans une équipe, avec des femmes et des hommes formidables. J&#8217;ai aussi découvert Windows NT et Solaris. Puis j&#8217;ai quitté la Suisse et je suis allé à Paris. Java est arrivé en 1995-96 à grand renfort de publicité. Je m&#8217;y suis intéressé mais, comment dire… je ne voyais pas comment on pouvait sérieusement travailler avec. C&#8217;était trop éloigné de ma culture &#8220;low-level&#8221;. J&#8217;ai participé à pas mal de startups en France et en Suisse et j&#8217;ai oscillé entre le web/http/html/javascript et le C#. Sans oublier Linux, perl, bash, etc. Du monde Linux, c&#8217;est Debian, le Debian Manifesto et le Debian Social Contract que je retiens le plus.</p>
+
+<p>J&#8217;ai lancé et cofondé ma propre société en 2002, à Genève: ADVTOOLS. Mon idée de départ était de proposer des services d&#8217;audits et de pentest, mais aussi des solutions. Hackers + développeurs. On est passé par plein de stades et de péripéties, mais l&#8217;idée est toujours la même: faire le lien entre le développement et la sécurité.</p>
+
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/soiree_hacking.png" title="" >
+Coté plus privé, je suis proche de mouvements féminins comme JDuchess et je participe (modestement) à des projets cyberféministes.</p>
+
+<p><em>D. S. : Le domaine de la sécurité informatique est si vaste, quel est ton domaine d&#8217;expertise (applications web, systèmes d&#8217;information en général, mobilité&#8230;) ? Considères-tu qu&#8217;aujourd&#8217;hui on trouve suffisamment de professionnels sur le marché spécialisés en sécurité de domaines si diverses et parfois jeunes (p.e. dispositifs mobiles) ?</em></p>
+
+<p>Avec les années, j&#8217;ai accumulé pas mal de connaissances. Mais je fais surtout du test d&#8217;intrusion, du forensique et de la formation. Le test d&#8217;intrusion, c&#8217;est surtout des sites web, du réseau, mais ce sont les applications mobiles qui m&#8217;intéressent le plus (Android et iOS). Cela me permet de retrouver l&#8217;assembleur, le coté hardware qui m&#8217;a manqué pendant les années &#8220;web&#8221;. Je suis aussi revenu vers le développement et le C++ en particulier. Il m&#8217;arrive même de ressortir le fer à souder !</p>
+
+<p>La sécurité informatique, c&#8217;est un peu comme les tests ou l&#8217;ergonomie. Certaines entreprises ont conscience qu&#8217;elles devraient s&#8217;occuper de ces aspects, mais cela coute cher. Les produits d&#8217;aujourd&#8217;hui sont pleins de bugs, d&#8217;absurdités et de problèmes de sécurité. La majorité des entreprises s&#8217;en fiche et préfère investir leur argent dans le marketing. Je crois qu&#8217;avec ma présentation, vous aurez deux beaux exemples. Alors non, il n&#8217;y a pas suffisamment de professionnels et ceux ci ce sont pas toujours qualifiés… comme partout.</p>
+
+<p><em>D. S. : Dans le monde des applications mobiles il y a des personnes qui voient un avenir basé sur des applications natives et d&#8217;autres qui le voient plutôt sur des applications web. Quel type d&#8217;application est la plus vulnérable actuellement à ton avis? Quelles sont les attaques le plus habituelles sur ce type de dispositifs? Quelles techniques utilisez-vous pour les éviter ?</em></p>
+
+<p>C&#8217;est très dépendant de l&#8217;application. Une application publicitaire ou informative n&#8217;a en général pas d&#8217;impératif de sécurité et le HTML (WebKit) va très bien. Par contre quand une application bancaire utiliser une web view, cela peut poser de sérieux problèmes: des données confidentielles peuvent se retrouver dans le cache, en clair. C&#8217;est difficile à maitriser sur Android. Dans une application native, le développeur a un meilleur contrôle de ce qui se passe. Encore faut-il qu&#8217;elle ou il ait les connaissances suffisantes pour choisir les bons mécanismes.</p>
+
+<p>Dans les faits, ce sont les applications natives qui aujourd&#8217;hui ont le plus de soucis de sécurité. Mais c&#8217;est surtout parce qu&#8217;elles sont généralement plus complexes, stockent plus de données localement ou communiquent avec des services web mal conçus. Le HTML 5 va probablement réduire cette différence. Je doute que cela soit dans le sens d&#8217;une meilleure sécurité.</p>
+
+<p>Les meilleures techniques pour éviter les problèmes de sécurité ? La formation des développeurs et la modélisation de menaces. Mettre les bons moyens, très top dans le projet, là où il faut et pas ailleurs. La sécurité, c&#8217;est souvent une histoire de compromis et cela demande de la réflexion. La technologie seule n&#8217;est pas suffisante.</p>
+
+<p><em>D. S. : Dans la même ligne que la question précédente: quel est, selon ton expérience, l&#8217;OS le plus sécurisé dans le monde de la mobilité (iOS, android, blackberry, windows phone) ? Y a-t-il des gros écarts entre les différents systèmes ?</em></p>
+
+<p>On peut distinguer plusieurs aspects: la plate-forme (Android, iOS, …), les applications et les stores. Au niveau des plates-formes, Blackberry était devant (il faut encore attendre un peu pour voir si c&#8217;est le cas de la nouvelle génération). Ensuite vient iOS et assez loin derrière Android. Au niveau des applications, je constate les mêmes problèmes, les mêmes erreurs sur iOS et Android. Coté Windows Phone, je ne m&#8217;y suis pas intéressé assez pour l&#8217;instant, donc pas d&#8217;avis.</p>
+
+<p>Le danger spécifique d&#8217;Android, c&#8217;est les malwares et on ne peut pas dire que Google fasse une chasse très efficace. La technologie elle même permet certaines choses plus difficiles sur les autres plates-formes: il est extrêmement facile de modifier et &#8220;repackager&#8221; une application Android existante et de la publier, avec un cheval de Troy.</p>
+
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/Sebastien.png" title="" ></p>
+
+<p><em>D. S. : Les applications en HTML 5 et javascript sont de plus en plus souvent utilisées pour le développement web. Sont-elles à ton avis plus vulnérables que les technologies &#8220;côté serveur&#8221; plus anciennes comme JSF, Struts&#8230; aux attaques des hackers? Quels sont les principaux avantages/vulnérabilités de ce type de technologie?</em></p>
+
+<p>Techniquement, le HTML 5 n&#8217;est pas encore un standard et devrait l&#8217;être en 2014. Comme toute nouvelle technologie, il faudra attendre un peu pour connaitre les faiblesses et les forces au niveau sécurité. Et chaque navigateur a sa propre interprétation ce qui complique les choses. Mais dans tous les cas, HTML 5 est une technologie coté client. On attaque le navigateur et la personne qui est devant l&#8217;écran. Le potentiel de dégât est bien plus important avec une technologie serveur. Là, dans le pire des cas, l&#8217;attaquant prend le contrôle du serveur. Dans les faits, les applications sont souvent un mélange de technologies clientes et serveurs.</p>
+
+<p>Certains aspects du HTML 5 me laissent tout de même perplexe: il introduit un &#8220;localStorage&#8221;. Très bien. Mais comment fait-on pour chiffrer les données ? Réponse: ce n&#8217;est pas prévu. Aux développeurs de se débrouiller. Le javascript est aussi très pauvre (pour ne pas dire autre chose) au niveau cryptographie.</p>
+
+<p>Des organisations comme OWASP font un classement des principales vulnérabilités web. Le numéro 1, c&#8217;est l&#8217;injection (SQL, LDAP, …). Le numéro 2, c&#8217;est les mauvaises authentifications et la mauvaise gestion des sessions. En trois, c&#8217;est le Cross-Site Scripting. On a donc une bonne répartition entre problèmes coté serveur et coté client.</p>
+
+<p><em>D. S. : Penses-tu que les développeurs, chefs de projet informatique&#8230; sont assez sensibilisés aujourd&#8217;hui à la sécurité informatique? Quelle serait la meilleure manière selon toi de sensibiliser les développeur à ce type de problématique : présentations comme au JUG, intervention dans les entreprises ?</em></p>
+
+<p>Pour répondre, il faut regarder la ligne &#8220;sécurité&#8221; dans le budget des projets. C&#8217;est souvent zéro, à part les banques qui prennent cela en compte (par la force des choses).</p>
+
+<p>La sensibilisation, c&#8217;est bien mais pour le grand public ou les non-professionnels. Ce qu&#8217;il faut pour les développeurs et les chefs de projets, c&#8217;est de la formation. Mais il faudra des années et beaucoup de problèmes de sécurité avant que cela ne devienne habituel. La législation va aussi changer bientôt en Europe et en Suisse. Les entreprises vont être de plus en plus responsables des données personnelles qu&#8217;elles détiennent et manipulent.</p>
+
+<p><em>D. S. : Si tu devais travailler avec une équipe qui n&#8217;est pas du tout sensibilisée à la sécurité et que tu avais une complète latitude, comment procéderais-tu? Présentation et recommandations au début du projet, mise en place de tests de sécurité tout au long du développement, audit une fois le développement initial finalisé ?</em></p>
+
+<p>L&#8217;idéal, c&#8217;est de tenir compte des aspects sécurité dès le départ. D&#8217;abord, faire une évaluation des menaces très tôt (lors des spécifications): qui est susceptible d&#8217;attaquer, avec quels moyens, pour quel bénéfice et avec quelles conséquences. Cela permet de se focaliser sur ce qui est le plus critique. Il y a des méthodes pour faire cette évaluation comme OCTAVE Allegro. La formation des développeuses et des développeurs est un élément clef. Les audits de sécurité se marient mal avec les méthodes Agiles. Ils ont une logique et un rythme bien différent. Le mieux, c&#8217;est une bonne collaboration entre développeurs et un référent sécurité. L&#8217;idée est, là encore, de mettre les bons moyens sur ce qui est le plus critique. Quand cela n&#8217;est pas possible, il faut passer par des audits et des tests d&#8217;intrusion. Quand c&#8217;est vraiment sensible, il faut faire les deux. Microsoft a développé il y a quelques années une méthodologie &#8220;SDL-Agile&#8221; qui est intéressante.</p>
+
+<p><em>D. S. : Est-ce que la Content Security Policy est aujourd&#8217;hui suffisamment solide pour être un référent réel dans le monde du Web? Est-elle référencée dans les entreprises qui travaillent dans le monde de la sécurité, comme p.e. la tienne, ADVTOOLS ?</em></p>
+
+<p>Lors de ma présentation, je vais montrer un exemple de XSS (Cross-Site Scripting) et de CSRF (Cross-Site Request Forgery) puis la combinaison des deux. Toute initiative est donc bonne pour contrer ces attaques et le principal but du Content Security Policy est de lutter contre le XSS. Mais c&#8217;est encore très jeune. Ce qui compte, c&#8217;est qui va l&#8217;utiliser, comment et les différences d&#8217;interprétation de la norme. Et je constate que la version 1.0 (Novembre 2012) n&#8217;est pas encore adoptée qu&#8217;une version 1.1 (Mars 2013) est un développement.</p>
+
+<p>De plus, on rencontre parfois des systèmes dont la sécurité … a été désactivée par les développeurs ou les sysadmins.</p>
+
+<p><em>D. S. : Suite à quelques épisodes récents de hacking de mots de passe (p.e. celui sur Linkedin où 6.4 millions de mots de passe ont été dévoilées) les générateurs de mots de passe sont devenus un sujet d&#8217;actualité. Recommandes-tu leur utilisation ? Penses tu qu&#8217;il y ait un vrai risque pour tous ceux qui comme nous utilisent les systèmes sociaux tels que facebook, twitter, Linkedin?</em></p>
+
+<p>Un grand nombre de personne utilise le même mot de passe pour différents sites. C&#8217;est ça le vrai danger. Et aussi les questions &#8220;de sécurité&#8221; qui permettent de récupérer son mot de passe. Elles sont souvent stupides. Il est donc préférable d&#8217;avoir un mot de passe différent (et aléatoire) pour chaque système et d&#8217;utiliser un porte-clef de mots de passe pour les gérer. On en trouve plein, plus ou moins bien, gratuit ou payant (1Password, Keepass, …) Certains protègent mal les mots de passe. Mais c&#8217;est quand même mieux que de ne rien avoir et d&#8217;utiliser le même mot de passe partout.</p>
+
+<p>Concernant le problème que tu mentionnes (LinkedIn), je trouve qu&#8217;il y a une exagération ou on regarde à coté des vrais problèmes. Ce qui a été volé, ce n&#8217;est pas des mots de passe mais des haches SHA-1. Même si SHA-1 n&#8217;est pas le meilleur choix (SHA-2 est préférable, couplé avec des algorithmes comme PBKDF2), ce n&#8217;est pas évident de casser des mots de passe avec juste le SHA-1. Et si l&#8217;utilisateur a choisi un mot de passe stupide, ce n&#8217;est pas la technologie qui peut l&#8217;aider. LinkedIn n&#8217;a pas suivi les bonnes pratiques, c&#8217;est vrai mais la question que je me pose est: comment l&#8217;attaquant a t&#8217;il pu récupéré ces haches? Probablement avec une injection SQL. Cela, ça me laisse songeur.</p>
+
+<p><em>D. S. : En dehors de la sécurité, est-ce qu&#8217;il y a d&#8217;autres sujets techniques autour de la technologie java qui t&#8217;intéresse spécialement ? Lesquels?</em></p>
+
+<p>Dalvik et le problème de la décompilation. J&#8217;aimerai aussi bien faire un émulateur pour exécuter du bytecode dex. Mais il y a une arrière pensée du coté sécurité. Et je n&#8217;aurais probablement jamais le temps…
+Mais en fait quasiment tout m&#8217;intéresse. Deployit pourquoi pas. Ce qui m&#8217;intéresse avant tout, c&#8217;est la démarche intellectuelle et les gens qui inventent ou manipulent les technologies.</p>
+
+<p>Merci beaucoup à Sébastien pour cet entretien. Nous espérons que ses réponses vous aient semblé si intéressants qu&#8217;a nous.  A bientôt !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Soirée NoSQL au GenevaJug. Interview à Katia Aresti]]></title>
