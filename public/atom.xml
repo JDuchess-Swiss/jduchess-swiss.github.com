@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2013-03-20T23:05:01+01:00</updated>
+  <updated>2013-04-14T15:47:15+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Premier workshop Duchess Swiss : Continuous Deployment avec Deployit]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2013/04/14/premier-workshop-jduchess/"/>
+    <updated>2013-04-14T12:44:00+02:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2013/04/14/premier-workshop-jduchess</id>
+    <content type="html"><![CDATA[<p>Comme beaucoup parmi vous le savent déjà le premier workshop technique Duchess Swiss a eu lieu mercredi dernier. Le sujet a été le déploiement continu avec Deployit de la main de XebiaLabs.</p>
+
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/deployit.png" width="300" height="55"></p>
+
+<p>Si bien nous avons eu quelques désistements de dernière minute, la salle était bien remplie. Le workshop a commencé par une introduction au continuous delivery suivi d&#8217;une présentation de Deployit. Mais le plus gros de la soirée a été dédié à la prise en main de l&#8217;outil par les assistants avec une série d&#8217;exercices pratiques proposes par Benoit Moussaud et son équipe.</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/benoitMoussaud2.png" width="450" height="338"></p>
+
+<p>Nous espérons que vous ayez aimé le contenu et le format de cet atelier. Merci à tous nous sponsors et biensûr à XebiaLabs pour cet excellent workshop !</p>
+
+<p>Pour information nous avons déjà une date pour le suivant. Il aura lieu le 5 Juin, le sujet &#8220;Le mains dans le cache&#8221; présenté par Mathilde Lemée et Aurélien Broszniowski. Bientôt nous vous enverrons plus de détails sur le lieu et le lien sur eventbrite pour pouvoir vous inscrire. A très bientôt !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Soirée Hacking au GenevaJug]]></title>
