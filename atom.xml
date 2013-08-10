@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2013-04-14T19:29:42+02:00</updated>
+  <updated>2013-08-10T18:23:37+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -14,13 +14,35 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Avec la rentrée, nouveau workshop jDuchess]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2013/08/10/avec-la-rentree/"/>
+    <updated>2013-08-10T17:14:00+02:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2013/08/10/avec-la-rentree</id>
+    <content type="html"><![CDATA[<p>Pour le prochain workshop jDuchess, un Hands-on Vaadin se prépare. <a href="">Nicolas Frankel</a> nous présentera Vaadin, un framework 100% Java pour faire Rich Internet Applications où la plus grosse partie de la logique se passe côté serveur.</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/vaadin.png" width="300" height="55">
+<img class="left" src="http://JDuchess-Swiss.github.com/images/nFrankel.png" width="170" height="55"></p>
+
+<p>Ce hands-on aura lieu le 11 septembre entre 18h30 et 21h30 dans les locaux de la salle HEPIA. Les inscriptions seront ouvertes à partir du 1 septembre <a href="https://duchess-swiss.eventbrite.fr">ici</a>. Venez nombreux !</p>
+
+<p>Comme d&#8217;habitude, un buffet sera offert par nos sponsors.</p>
+
+<p><img src="http://JDuchess-Swiss.github.com/images/logo-altran.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-cross.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-hortis.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-Ilem.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-kalyss.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-OOsphere.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-sopra.png" width="100"></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Premier workshop Duchess Swiss : Continuous Deployment avec Deployit]]></title>
     <link href="http://JDuchess-Swiss.github.com/blog/2013/04/14/premier-workshop-jduchess/"/>
     <updated>2013-04-14T12:44:00+02:00</updated>
     <id>http://JDuchess-Swiss.github.com/blog/2013/04/14/premier-workshop-jduchess</id>
-    <content type="html"><![CDATA[<p>Comme beaucoup parmi vous le savent déjà le premier workshop technique Duchess Swiss a eu lieu mercredi dernier. Le sujet a été le déploiement continu avec Deployit de la main de XebiaLabs.</p>
-
-<p><img class="left" src="http://JDuchess-Swiss.github.com/images/deployit.png" width="300" height="55"></p>
+    <content type="html"><![CDATA[<p><img class="left" src="http://JDuchess-Swiss.github.com/images/deployit.png" width="300" height="55"></p>
 
 <p>Si bien nous avons eu quelques désistements de dernière minute, la salle était bien remplie. Le workshop a commencé par une introduction au continuous delivery suivi d&#8217;une présentation de Deployit. Mais le plus gros de la soirée a été dédié à la prise en main de l&#8217;outil par les assistants avec une série d&#8217;exercices pratiques proposes par Benoit Moussaud et son équipe.</p>
 
