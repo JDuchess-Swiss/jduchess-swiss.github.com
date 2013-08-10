@@ -8,9 +8,8 @@ comments: true
 external-url: http://www.duchess-france.org/les-mains-dans-le-cache/
 categories: 
 ---
-
-Comme beaucoup parmi vous le savent déjà le premier workshop technique Duchess Swiss a eu lieu mercredi dernier. Le sujet a été le déploiement continu avec Deployit de la main de XebiaLabs.
-
+ 
+ 
 {% img left /images/deployit.png 300 55 %}
 
 Si bien nous avons eu quelques désistements de dernière minute, la salle était bien remplie. Le workshop a commencé par une introduction au continuous delivery suivi d'une présentation de Deployit. Mais le plus gros de la soirée a été dédié à la prise en main de l'outil par les assistants avec une série d'exercices pratiques proposes par Benoit Moussaud et son équipe.
