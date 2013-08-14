@@ -4,7 +4,7 @@
   <title><![CDATA[Category: RIA | Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/blog/categories/ria/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2013-08-10T18:23:37+02:00</updated>
+  <updated>2013-08-14T21:45:16+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -18,7 +18,7 @@
     <link href="http://JDuchess-Swiss.github.com/blog/2013/08/10/avec-la-rentree/"/>
     <updated>2013-08-10T17:14:00+02:00</updated>
     <id>http://JDuchess-Swiss.github.com/blog/2013/08/10/avec-la-rentree</id>
-    <content type="html"><![CDATA[<p>Pour le prochain workshop jDuchess, un Hands-on Vaadin se prépare. <a href="">Nicolas Frankel</a> nous présentera Vaadin, un framework 100% Java pour faire Rich Internet Applications où la plus grosse partie de la logique se passe côté serveur.</p>
+    <content type="html"><![CDATA[<p>Pour le prochain workshop jDuchess, un Hands-on Vaadin se prépare. <a href="https://twitter.com/nicolas_frankel">Nicolas Frankel</a> nous présentera Vaadin, un framework 100% Java pour faire Rich Internet Applications où la plus grosse partie de la logique se passe côté serveur.</p>
 
 <p><img class="right" src="/images/vaadin.png" width="300" height="55">
 <img class="left" src="/images/nFrankel.png" width="170" height="55"></p>
