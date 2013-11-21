@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2013-08-10T18:23:37+02:00</updated>
+  <updated>2013-11-21T21:04:58+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -14,11 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Hands on Neo4J]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2013/11/21/hands-on-neo4j/"/>
+    <updated>2013-11-21T20:46:00+01:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2013/11/21/hands-on-neo4j</id>
+    <content type="html"><![CDATA[<p>Le prochain workshop jDuchess tournera autour de Neo4j, une base NoSQL orientée graphe 100% Java qui suit les principes ACID.</p>
+
+<p><a href="https://twitter.com/fbiville">Florent Biville</a> et <a href="https://twitter.com/ogirardot">Olivier Girardot</a> vous présenteront cette solution, utilisée entre autres par Viadeo pour connecter ses utilisateur et relations.</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/neo4j.png" width="300" height="55"></p>
+
+<p>La théorie de graphes a toujours été remarquable à l&#8217;heure de résoudre de problèmes dans des nombreux domaines. Neo4j est devenu l&#8217;une des solutions les plus populaires parmi les bases NoSQL basées sur cette théorie.</p>
+
+<p>Cet atelier sera l’occasion de découvrir la modélisation en graphe grâce à des exercices simples en Java autour du thème.</p>
+
+<p>Il est destiné à tous les développeurs avec un minimum de connaissances en Java et désireux de découvrir cette base de données. Les inscriptions sont disponibles sur <a href="http://hands-on-neo4j-jduchess-swiss.eventbrite.com"/>eventbrite</a>.</p>
+
+<p>Comme d&#8217;habitude, nous finirons avec un buffet offert par nos sponsors.</p>
+
+<p><img src="http://JDuchess-Swiss.github.com/images/logo-altran.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-cross.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-hortis.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-Ilem.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-kalyss.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-OOsphere.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-sopra.png" width="100"></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Avec la rentrée, nouveau workshop jDuchess]]></title>
     <link href="http://JDuchess-Swiss.github.com/blog/2013/08/10/avec-la-rentree/"/>
     <updated>2013-08-10T17:14:00+02:00</updated>
     <id>http://JDuchess-Swiss.github.com/blog/2013/08/10/avec-la-rentree</id>
-    <content type="html"><![CDATA[<p>Pour le prochain workshop jDuchess, un Hands-on Vaadin se prépare. <a href="">Nicolas Frankel</a> nous présentera Vaadin, un framework 100% Java pour faire Rich Internet Applications où la plus grosse partie de la logique se passe côté serveur.</p>
+    <content type="html"><![CDATA[<p>Pour le prochain workshop jDuchess, un Hands-on Vaadin se prépare. <a href="https://twitter.com/nicolas_frankel">Nicolas Frankel</a> nous présentera Vaadin, un framework 100% Java pour faire Rich Internet Applications où la plus grosse partie de la logique se passe côté serveur.</p>
 
 <p><img class="right" src="http://JDuchess-Swiss.github.com/images/vaadin.png" width="300" height="55">
 <img class="left" src="http://JDuchess-Swiss.github.com/images/nFrankel.png" width="170" height="55"></p>

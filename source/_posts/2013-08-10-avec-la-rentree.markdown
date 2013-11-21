@@ -6,7 +6,7 @@ comments: true
 sharing: true
 categories: Java, RIA
 ---
-Pour le prochain workshop jDuchess, un Hands-on Vaadin se prépare. <a href="">Nicolas Frankel</a> nous présentera Vaadin, un framework 100% Java pour faire Rich Internet Applications où la plus grosse partie de la logique se passe côté serveur. 
+Pour le prochain workshop jDuchess, un Hands-on Vaadin se prépare. <a href="https://twitter.com/nicolas_frankel">Nicolas Frankel</a> nous présentera Vaadin, un framework 100% Java pour faire Rich Internet Applications où la plus grosse partie de la logique se passe côté serveur. 
 
 {% img right /images/vaadin.png 300 55 %}
 {% img left /images/nFrankel.png 170 55 %}
