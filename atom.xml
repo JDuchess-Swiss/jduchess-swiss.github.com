@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2014-01-26T17:12:29+01:00</updated>
+  <updated>2014-01-26T17:18:15+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -20,7 +20,7 @@
     <id>http://JDuchess-Swiss.github.com/blog/2014/01/26/hands-on-django</id>
     <content type="html"><![CDATA[<p>Pour le prochain workshop jDuchess nous aurons le plaisir d&#8217;accueillir à <a href="https://twitter.com/ClaireReynaud">Claire Reynaud</a> qui nous presentera Django. <a href="https://djangoproject.com">Django</a> est un framework open-source de développement web en Python.</p>
 
-<p><img class="left" src="http://JDuchess-Swiss.github.com/images/claireReynaud.jpeg" width="200"></p>
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/claireReynaud.jpg" width="200"></p>
 
 <p>Il a pour slogan &#8220;Le framework web pour les perfectionnistes qui ont des deadlines&#8221;.
 Il est utilisé par Disqus, Instagram, Mozilla, Pinterest, BitBucket, The New York Times et bien d&#8217;autres.</p>
