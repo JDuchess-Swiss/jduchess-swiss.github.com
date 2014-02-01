@@ -5,7 +5,7 @@ date: 2013-11-21 20:46
 author: Julia Mateo
 sharing : true
 comments: true
-categories: 
+categories:
 ---
 
 Le prochain workshop jDuchess tournera autour de Neo4j, une base NoSQL orientée graphe 100% Java qui suit les principes ACID.
