@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2014-01-26T19:50:20+01:00</updated>
+  <updated>2014-02-01T17:41:06+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -18,7 +18,7 @@
     <link href="http://JDuchess-Swiss.github.com/blog/2014/01/26/hands-on-django/"/>
     <updated>2014-01-26T16:20:00+01:00</updated>
     <id>http://JDuchess-Swiss.github.com/blog/2014/01/26/hands-on-django</id>
-    <content type="html"><![CDATA[<p>Pour le prochain workshop jDuchess nous aurons le plaisir d&#8217;accueillir à <a href="https://twitter.com/ClaireReynaud">Claire Reynaud</a> qui nous presentera Django. <a href="https://djangoproject.com">Django</a> est un framework open-source de développement web en Python.</p>
+    <content type="html"><![CDATA[<p>Pour le prochain workshop jDuchess nous aurons le plaisir d&#8217;accueillir à <a href="https://twitter.com/ClaireReynaud">Claire Reynaud</a> et <a href="https://twitter.com/brutasse">Bruno Renié</a> qui nous presenteront Django. <a href="https://djangoproject.com">Django</a> est un framework open-source de développement web en Python.</p>
 
 <p><img class="left" src="http://JDuchess-Swiss.github.com/images/claireReynaud.jpg" width="200"></p>
 
@@ -41,6 +41,8 @@ Il est utilisé par Disqus, Instagram, Mozilla, Pinterest, BitBucket, The New Yo
 <p><img class="left" src="http://JDuchess-Swiss.github.com/images/heroku.jpeg" width="250"></p>
 
 <p>Ce workshop sera l&#8217;occasion de discuter de bonnes pratiques en matière de développement, de test et de déploiement d&#8217;applications Django.</p>
+
+<p>Il aura lieu à la salle Hepia A106 le 18 Septembre entre 18h30 et 21h30.</p>
 
 <p>Comme d&#8217;habitude, nous finirons avec un buffet offert par nos sponsors. Inscription obligatoire sur <a href="http://duchess-swiss-hands-on-django.eventbrite.fr">eventbrite</a>.</p>
 
