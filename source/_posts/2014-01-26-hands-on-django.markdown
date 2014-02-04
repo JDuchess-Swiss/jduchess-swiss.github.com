@@ -32,7 +32,7 @@ Les thèmes de la soirée :
 
 Ce workshop sera l'occasion de discuter de bonnes pratiques en matière de développement, de test et de déploiement d'applications Django.
 
-Il aura lieu à la salle Hepia A106 le 18 Septembre entre 18h30 et 21h30.
+Il aura lieu à la salle Hepia A106 le 18 Février entre 18h30 et 21h30.
 
 Comme d'habitude, nous finirons avec un buffet offert par nos sponsors. Inscription obligatoire sur <a href="http://duchess-swiss-hands-on-django.eventbrite.fr">eventbrite</a>.
 
