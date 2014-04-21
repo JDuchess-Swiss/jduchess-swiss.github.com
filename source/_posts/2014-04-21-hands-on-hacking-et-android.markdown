@@ -18,12 +18,13 @@ Il est recommandé d’avoir un peu d’expérience avec Java mais mis à part c
 
 Pour gagner du temps, nous utiliserons une distribution “maison" dans une machine virtuelle. Il est donc indispensable d’avoir soit VirtualBox, soit un VMware récent. Un peu de RAM dans votre portable sera le bienvenu, les outils sont gourmands.
 
-
 **Pré-requis:**
 
 + Un laptop Macintosh, Windows ou Linux
 + VirtualBox (récent) ou VMmare Player, Fusion ou Workstation (récent)
 + Minimum 2 GiB RAM pour la machine virtuelle. Plus il y en a, mieux c’est.
+
+{% img center /images/{% img /images/hacking-android.jpg 200 55  %}
 
 **Ce workshop aura lieu à la salle Hepia A106 le 6 Mai entre 18h30 et 21h30. Inscription sur <a href="https://www.eventbrite.fr/e/workshop-jduchess-hacking-et-android-tickets-11335971195">eventbrite</a> obligatoire**. Nous finirons avec un buffet offert par nos sponsors.
 

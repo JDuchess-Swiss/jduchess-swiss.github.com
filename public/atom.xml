@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2014-02-04T19:51:57+01:00</updated>
+  <updated>2014-04-21T16:40:47+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hands-on Hacking et Android]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2014/04/21/hands-on-hacking-et-android/"/>
+    <updated>2014-04-21T15:49:00+02:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2014/04/21/hands-on-hacking-et-android</id>
+    <content type="html"><![CDATA[<p>Le prochain workshop JDuchess vous propose un hands-on Hacking et Android. Les applications Android sont essentiellement écrites en Java mais sont compilées pour une machine virtuelle spécifique à Android: Dalvik. <a href="http://www.linkedin.com/pub/anne-gosselin/23/20b/250/en">Anne Gosselin</a> et <a href="https://twitter.com/AndrivetSeb">Sebastien Andrivet</a> nous montreront les techniques et les outils permettant de décortiquer les applications Android, de les modifier, de retrouver le code source ou (très) approchant, etc. Ce hands-on est basé sur des exercices concrets et à la portée de tous (même si parfois, il faut un peu s’accrocher…).</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/anne_goesslin.png" width="180" height="55">
+<img class="left" src="http://JDuchess-Swiss.github.com/images/Sebastien.png" width="120" height="55"></p>
+
+<p>Il est recommandé d’avoir un peu d’expérience avec Java mais mis à part cela, venez juste avec votre portable, votre cerveau et votre curiosité.</p>
+
+<p>Pour gagner du temps, nous utiliserons une distribution “maison&#8221; dans une machine virtuelle. Il est donc indispensable d’avoir soit VirtualBox, soit un VMware récent. Un peu de RAM dans votre portable sera le bienvenu, les outils sont gourmands.</p>
+
+<p><strong>Pré-requis:</strong></p>
+
+<ul>
+<li>Un laptop Macintosh, Windows ou Linux</li>
+<li>VirtualBox (récent) ou VMmare Player, Fusion ou Workstation (récent)</li>
+<li>Minimum 2 GiB RAM pour la machine virtuelle. Plus il y en a, mieux c’est.</li>
+</ul>
+
+
+<p><img class="center /images/{% img" src="http://JDuchess-Swiss.github.com/images/hacking-android.jpg" width="200" height="55" title="" ></p>
+
+<p><strong>Ce workshop aura lieu à la salle Hepia A106 le 6 Mai entre 18h30 et 21h30. Inscription sur <a href="https://www.eventbrite.fr/e/workshop-jduchess-hacking-et-android-tickets-11335971195">eventbrite</a> obligatoire</strong>. Nous finirons avec un buffet offert par nos sponsors.</p>
+
+<p><img src="http://JDuchess-Swiss.github.com/images/logo-qim.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-hortis.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-OOsphere.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-cross.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-Ilem.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-kalyss.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-sopra.png" width="100"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Soirée Coding-Dojo]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2014/04/05/new-post/"/>
+    <updated>2014-04-05T11:43:00+02:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2014/04/05/new-post</id>
+    <content type="html"><![CDATA[<p>Pour remonter le moral de ceux qui n&#8217;ont pas réussi à avoir des entrées pour Devoxx France cette année, jDuchess Swiss vous propose une soirée coding dojo animé par <a href="https://twitter.com/dbroeglin">Dominique Broeglin</a> le jeudi 17 Avril à 18h30.</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/ruby.jpeg" width="100" height="55">
+<img class="left" src="http://JDuchess-Swiss.github.com/images/java.jpeg" width="100" height="55"></p>
+
+<p>À cette occasion nous vous proposerons de choisir un parmi plusieurs katas en Java et/ou Ruby sur lesquels vous coderez en mode pair programming pendant plusieurs itérations de 25 minutes. A la fin de chaque itération les paires seront reformées.</p>
+
+<p>Les inscriptions sont disponibles sur <a href="https://www.eventbrite.fr/e/soiree-coding-dojo-avec-jduchess-swiss-tickets-11157156355"/>eventbrite</a>. La soirée finira avec une rétrospective. Comme d&#8217;habitude, un buffet sera offert à la fin de la soirée cette fois sponsorisé par <a href="http://www.aim-services.ch/">AIM Services</a>.</p>
+
+<p><img class="center" src="http://JDuchess-Swiss.github.com/images/logo-aim.png" width="150" height="55"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hands on Django]]></title>
