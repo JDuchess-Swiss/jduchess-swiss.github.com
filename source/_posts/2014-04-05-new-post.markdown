@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Soirée Coding-Dojo"
+sharing: true
+comments: true
+author: "Julia Mateo"
+date: 2014-04-05 11:43
+categories:
+---
+Pour remonter le moral de ceux qui n'ont pas réussi à avoir des entrées pour Devoxx France cette année, jDuchess Swiss vous propose une soirée coding dojo animé par <a href="https://twitter.com/dbroeglin">Dominique Broeglin</a> le jeudi 17 Avril à 18h30.
+
+{% img right /images/ruby.jpeg 100 55 %}
+{% img left /images/java.jpeg 100 55 %}
+                                                                       
+À cette occasion nous vous proposerons de choisir un parmi plusieurs katas en Java et/ou Ruby sur lesquels vous coderez en mode pair programming pendant plusieurs itérations de 25 minutes. A la fin de chaque itération les paires seront reformées.                                                              
+
+Les inscriptions sont disponibles sur <a href="https://www.eventbrite.fr/e/soiree-coding-dojo-avec-jduchess-swiss-tickets-11157156355"/>eventbrite</a>. La soirée finira avec une rétrospective. Comme d'habitude, un buffet sera offert à la fin de la soirée cette fois sponsorisé par <a href="http://www.aim-services.ch/">AIM Services</a>.
+
+{% img center /images/logo-aim.png 150 55 %}
