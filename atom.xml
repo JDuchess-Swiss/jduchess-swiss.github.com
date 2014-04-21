@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2014-04-21T16:22:35+02:00</updated>
+  <updated>2014-04-21T16:40:08+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -35,6 +35,8 @@
 <li>Minimum 2 GiB RAM pour la machine virtuelle. Plus il y en a, mieux c’est.</li>
 </ul>
 
+
+<p><img class="center /images/{% img" src="http://JDuchess-Swiss.github.com/images/hacking-android.jpg" width="200" height="55" title="" ></p>
 
 <p><strong>Ce workshop aura lieu à la salle Hepia A106 le 6 Mai entre 18h30 et 21h30. Inscription sur <a href="https://www.eventbrite.fr/e/workshop-jduchess-hacking-et-android-tickets-11335971195">eventbrite</a> obligatoire</strong>. Nous finirons avec un buffet offert par nos sponsors.</p>
 
