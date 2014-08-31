@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2014-04-21T16:40:08+02:00</updated>
+  <updated>2014-08-31T16:38:26+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NipConf]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2014/08/31/nipconf/"/>
+    <updated>2014-08-31T16:23:00+02:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2014/08/31/nipconf</id>
+    <content type="html"><![CDATA[<p>Le 24 et 25 octobre aura lieu à Lausanne la première édition de Nipconf, une nouvelle conférence autour des nouvelles technologies. Elle a été créée par les auteurs de Nipcast, un podcast d&#8217;origine romande qui parle de startups, développement d&#8217;applications, éducation, communication et <a href="https://play.google.com/store/apps/details?id=com.generic.info.nipcast&hl=en">d&#8217;autres</a> sujets.</p>
+
+<p><img class="center" src="http://JDuchess-Swiss.github.com/images/nipconf_logo.png"></p>
+
+<p>Parmi ses speakers il y aura notre collègue de jDuchess France, <a href="https://twitter.com/nivdul">Ludwine Probst</a>, qui présentera la session “Un monde de capteurs et de données”. Le samedi 25, les sessions seront remplacées par un hackaton entre 10h et 18h. Pour avoir accès aux inscriptions et à plus d&#8217;informations, n&#8217;hesitez pas a aller sur leur <a href="http://nipconf.com">site</a></p>
+
+<p>Pour information, nous disposons de 2 entrées qu&#8217;on offrira aux deux premières personnes qui répondront correctement aux questions qu&#8217;on postera sur <a href="https://twitter.com/duchessswiss">twitter</a> dans les prochaines semaines.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hands-on Hacking et Android]]></title>

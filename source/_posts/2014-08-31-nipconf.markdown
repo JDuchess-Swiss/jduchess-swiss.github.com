@@ -1,0 +1,17 @@
+---
+layout: post
+title: "NipConf"
+sharing: true
+author: "Julia Mateo"
+date: 2014-08-31 16:23
+comments: true
+categories: 
+---
+
+Le 24 et 25 octobre aura lieu à Lausanne la première édition de Nipconf, une nouvelle conférence autour des nouvelles technologies. Elle a été créée par les auteurs de Nipcast, un podcast d'origine romande qui parle de startups, développement d'applications, éducation, communication et <a href="https://play.google.com/store/apps/details?id=com.generic.info.nipcast&hl=en">d'autres</a> sujets.
+
+{% img center /images/nipconf_logo.png %}
+
+Parmi ses speakers il y aura notre collègue de jDuchess France, <a href="https://twitter.com/nivdul">Ludwine Probst</a>, qui présentera la session “Un monde de capteurs et de données”. Le samedi 25, les sessions seront remplacées par un hackaton entre 10h et 18h. Pour avoir accès aux inscriptions et à plus d'informations, n'hesitez pas a aller sur leur <a href="http://nipconf.com">site</a>
+
+Pour information, nous disposons de 2 entrées qu'on offrira aux deux premières personnes qui répondront correctement aux questions qu'on postera sur <a href="https://twitter.com/duchessswiss">twitter</a> dans les prochaines semaines.
