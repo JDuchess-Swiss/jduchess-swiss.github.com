@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2015-02-15T21:56:11+01:00</updated>
+  <updated>2015-02-15T22:04:46+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Atelier technique : XL Deploy]]></title>
-    <link href="http://JDuchess-Swiss.github.com/blog/2015/02/15/15-Workshop+devops/"/>
+    <link href="http://JDuchess-Swiss.github.com/blog/2015/02/15/15-Workshop_devops/"/>
     <updated>2015-02-15T16:23:00+01:00</updated>
-    <id>http://JDuchess-Swiss.github.com/blog/2015/02/15/15-Workshop devops</id>
+    <id>http://JDuchess-Swiss.github.com/blog/2015/02/15/15-Workshop_devops</id>
     <content type="html"><![CDATA[<p>Le 5 Mars nous collaborons avec Smartwave et Xebialabs à l&#8217;organisation de l&#8217;atelier technique <a href="http://xebialabs.com/products/xl-deploy/">XL Deploy</a>. Il fera partie de la journée Devops et aura lieu à la Fédération des Entreprises Romandes Genève entre 18h et 21h. <strong>Inscription obligatoire sur <a href="https://www.eventbrite.com/e/inscription-journee-devops-suisse-15549492952">eventbrite</a>.</strong></p>
 
 <p><img class="left" src="http://JDuchess-Swiss.github.com/images/product-xl-deploy.jpg" width="110" height="60">
@@ -31,9 +31,9 @@
   
   <entry>
     <title type="html"><![CDATA[Workshop Docker avec David Gageot]]></title>
-    <link href="http://JDuchess-Swiss.github.com/blog/2014/10/15/Retour+du+workshop+Docker/"/>
+    <link href="http://JDuchess-Swiss.github.com/blog/2014/10/15/Retour_du_workshop_Docker/"/>
     <updated>2014-10-15T16:23:00+02:00</updated>
-    <id>http://JDuchess-Swiss.github.com/blog/2014/10/15/Retour du workshop Docker</id>
+    <id>http://JDuchess-Swiss.github.com/blog/2014/10/15/Retour_du_workshop_Docker</id>
     <content type="html"><![CDATA[<p>Le 15 Octobre nous avons eu le <a href="http://www.eventbrite.fr/e/billets-prochain-workshop-jduchess-atelier-docker-par-david-gageot-13112873959">workshop Docker</a> présenté par David Gageot. Voici une photo de la soirée :</p>
 
 <p><img class="center" src="http://JDuchess-Swiss.github.com/images/david_gageot_docker.jpg" width="800" height="50"></p>
@@ -423,9 +423,9 @@ As-tu déjà expérimenté avec des enfants des langages comme Alice3, Scratch o
   
   <entry>
     <title type="html"><![CDATA[Soirée Gatling Au GenevaJUG, Entretien Avec Nicolas Rémond]]></title>
-    <link href="http://JDuchess-Swiss.github.com/blog/2012/11/26/Entretien+a%CC%80+Nicolas+Re%CC%81mond/"/>
+    <link href="http://JDuchess-Swiss.github.com/blog/2012/11/26/Entretien_a%CC%80_Nicolas_Re%CC%81mond/"/>
     <updated>2012-11-26T19:07:00+01:00</updated>
-    <id>http://JDuchess-Swiss.github.com/blog/2012/11/26/Entretien à Nicolas Rémond</id>
+    <id>http://JDuchess-Swiss.github.com/blog/2012/11/26/Entretien_à_Nicolas_Rémond</id>
     <content type="html"><![CDATA[<p>Bonjour à tous !</p>
 
 <p>Pour vous préparer pour le prochain GenevaJug, nous vous offrons en apéritif un entretien avec Nicolas Rémond, committer du projet Gatling. Il nous présentera les avantages de cet outil de test de montée en charge, ce mardi 27 novembre à la salle HEPIA.</p>
@@ -501,9 +501,9 @@ As-tu déjà expérimenté avec des enfants des langages comme Alice3, Scratch o
   
   <entry>
     <title type="html"><![CDATA[Le blog des JDuchess Swiss is out]]></title>
-    <link href="http://JDuchess-Swiss.github.com/blog/2012/11/25/Le+blog+des+jduchess+swiss+is+out/"/>
+    <link href="http://JDuchess-Swiss.github.com/blog/2012/11/25/Le_blog_des_jduchess_swiss_is_out/"/>
     <updated>2012-11-25T19:07:00+01:00</updated>
-    <id>http://JDuchess-Swiss.github.com/blog/2012/11/25/Le blog des jduchess swiss is out</id>
+    <id>http://JDuchess-Swiss.github.com/blog/2012/11/25/Le_blog_des_jduchess_swiss_is_out</id>
     <content type="html"><![CDATA[<p>Bonjour à tous !</p>
 
 <p>Le blog des Duchess Swiss est inauguré. Depuis ici nous vous maintiendrons informés de toutes nos activités. Restez a l&#8217;écoute !</p>
