@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2015-02-15T21:50:02+01:00</updated>
+  <updated>2015-02-15T21:56:11+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Atelier technique : XL Deploy]]></title>
-    <link href="http://JDuchess-Swiss.github.com/blog/2015/03/15/15-Workshop+devops/"/>
-    <updated>2015-03-15T16:23:00+01:00</updated>
-    <id>http://JDuchess-Swiss.github.com/blog/2015/03/15/15-Workshop devops</id>
+    <link href="http://JDuchess-Swiss.github.com/blog/2015/02/15/15-Workshop+devops/"/>
+    <updated>2015-02-15T16:23:00+01:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2015/02/15/15-Workshop devops</id>
     <content type="html"><![CDATA[<p>Le 5 Mars nous collaborons avec Smartwave et Xebialabs à l&#8217;organisation de l&#8217;atelier technique <a href="http://xebialabs.com/products/xl-deploy/">XL Deploy</a>. Il fera partie de la journée Devops et aura lieu à la Fédération des Entreprises Romandes Genève entre 18h et 21h. <strong>Inscription obligatoire sur <a href="https://www.eventbrite.com/e/inscription-journee-devops-suisse-15549492952">eventbrite</a>.</strong></p>
 
 <p><img class="left" src="http://JDuchess-Swiss.github.com/images/product-xl-deploy.jpg" width="110" height="60">
