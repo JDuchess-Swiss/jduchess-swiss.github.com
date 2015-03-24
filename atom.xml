@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2015-02-15T22:04:46+01:00</updated>
+  <updated>2015-03-24T23:03:36+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le 31 Mars : Coding Dojo jDuchess]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2015/03/24/le-31-mars-coding-dojo-jduchess/"/>
+    <updated>2015-03-24T22:40:00+01:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2015/03/24/le-31-mars-coding-dojo-jduchess</id>
+    <content type="html"><![CDATA[<p>Pour le prochain mardi 31 Mars, nous vous proposons de venir participer au deuxième coding Dojo jDuchess qui sera animé par <a href="https://twitter.com/dbroeglin">Dominique Broeglin</a>.</p>
+
+<p>Il aura pour but le développement d&#8217;un Kata avec JUnit, <a href="http://jbehave.org/">JBehave</a> et, pour les plus aventureux, <a href="http://getgauge.io/">Gauge</a>.</p>
+
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/coding_dojo.png" width="200" height="150"></p>
+
+<p>La soirée finira avec le classique buffet offert par nos sponsors, où les participants pourront échanger entre eux autour de l&#8217;atelier.</p>
+
+<p>Inscription obligatoire sur <a href="https://www.eventbrite.fr/e/billets-coding-dojo-jduchess-16294224464">eventbrite</a>.</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/dominique_broeglin.jpeg" width="150" height="150"></p>
+
+<p><em>Architecte logiciel découvreur de solutions, Dominique Broeglin développe depuis plus de 15 ans des applications Java et Ruby dans des domaines d’activités variées allant des télécommunications aux transports en passant par la presse et le commerce en ligne. Après avoir découvert l’Agile à la fin des années 90, il en est devenu adepte. Son expérience lui a montré l’importance de la pratique des techniques de programmation. Il organise notamment des Coding Dojo pour permettre aux développeurs de perfectionner ces techniques.</em></p>
+
+<p><img src="http://JDuchess-Swiss.github.com/images/logo-qim.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-hortis.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-OOsphere.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-serial.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-Ilem.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-kalyss.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-sopra-steria.png" width="100"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Atelier technique : XL Deploy]]></title>
