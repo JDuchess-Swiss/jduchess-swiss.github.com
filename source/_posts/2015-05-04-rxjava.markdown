@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Le 19 Mai : RxJava, les mains dans le code"
+sharing: true
+date: 2015-05-04 20:03
+author: "Julia Mateo"
+comments: true
+categories: 
+---
+Vous n'avez pas pu aller à Devoxx France cette année ? Vous avez déjà entendu parler de RxJava mais souhaiteriez une approche pratique et concrète ? Vous souhaitez découvrir la programmation réactive fonctionnelle (FRP) ? Cet atelier est fait pour vous. 
+Nous découvrions ReactiveX en développant une application cliente composant des résultats de multiples services pas toujours fiables. Nous verrons quelles bonnes pratique mettre en place pour qu'elle soit prête pour la prod (retry, backpressure, exponential backoff...).
+
+L'application sera enfin connectée à un système de persistence NoSQL asynchrone et réactif.
+
+**Prérequis : JDK8, un IDE, Git, Maven**
+
+Inscription obligatoire sur eventbrite <a href="https://www.eventbrite.fr/e/billets-rxjava-les-mains-dans-le-code-16843612699">ici</a>
+
+Le workshop sera animé par Simon Baslé et Laurent Doguin.
+
+{% img left /images/simonbasle.jpeg 150 150 %}
+*Simon est Software Engineer chez Couchbase. Au cours des 6 dernières     années, Simon s'est particulièrement enthousiasmé sur les aspects conception (OOP, design patterns, architecture logicielle) et s'est intéressé à des sujets divers tels que les clients riches et l'User eXperience, les outils supports (VCS, serveurs d'intégration continue et les bonnes pratiques associées), ainsi que la programmation concurrente. Après quelques années en SSII, il intègre Couchbase pour travailler sur le SDK Java.*
+
+{% img right /images/laurentdoguin.jpg 150 150 %}
+
+*Laurent is a Paris based Developer Advocate where he focuses on helping Java developers and the French community. He writes code in Java and blog posts in Markdown. Prior to joining Couchbase he was Nuxeo’s community liaison where he devoted his time and expertise to helping the entire Nuxeo Community become more active and efficient.*
+
