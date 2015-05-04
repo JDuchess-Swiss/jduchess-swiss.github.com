@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2015-05-04T20:31:33+02:00</updated>
+  <updated>2015-05-04T20:33:05+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[RxJava, les mains dans le code]]></title>
+    <title type="html"><![CDATA[Le 19 Mai : RxJava, les mains dans le code]]></title>
     <link href="http://JDuchess-Swiss.github.com/blog/2015/05/04/rxjava/"/>
     <updated>2015-05-04T20:03:00+02:00</updated>
     <id>http://JDuchess-Swiss.github.com/blog/2015/05/04/rxjava</id>
