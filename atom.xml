@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2015-03-24T23:03:36+01:00</updated>
+  <updated>2015-05-04T20:31:33+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[RxJava, les mains dans le code]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2015/05/04/rxjava/"/>
+    <updated>2015-05-04T20:03:00+02:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2015/05/04/rxjava</id>
+    <content type="html"><![CDATA[<p>Vous n&#8217;avez pas pu aller à Devoxx France cette année ? Vous avez déjà entendu parler de RxJava mais souhaiteriez une approche pratique et concrète ? Vous souhaitez découvrir la programmation réactive fonctionnelle (FRP) ? Cet atelier est fait pour vous.
+Nous découvrions ReactiveX en développant une application cliente composant des résultats de multiples services pas toujours fiables. Nous verrons quelles bonnes pratique mettre en place pour qu&#8217;elle soit prête pour la prod (retry, backpressure, exponential backoff&#8230;).</p>
+
+<p>L&#8217;application sera enfin connectée à un système de persistence NoSQL asynchrone et réactif.</p>
+
+<p><strong>Prérequis : JDK8, un IDE, Git, Maven</strong></p>
+
+<p>Inscription obligatoire sur eventbrite <a href="https://www.eventbrite.fr/e/billets-rxjava-les-mains-dans-le-code-16843612699">ici</a></p>
+
+<p>Le workshop sera animé par Simon Baslé et Laurent Doguin.</p>
+
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/simonbasle.jpeg" width="150" height="150">
+<em>Simon est Software Engineer chez Couchbase. Au cours des 6 dernières     années, Simon s&#8217;est particulièrement enthousiasmé sur les aspects conception (OOP, design patterns, architecture logicielle) et s&#8217;est intéressé à des sujets divers tels que les clients riches et l&#8217;User eXperience, les outils supports (VCS, serveurs d&#8217;intégration continue et les bonnes pratiques associées), ainsi que la programmation concurrente. Après quelques années en SSII, il intègre Couchbase pour travailler sur le SDK Java.</em></p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/laurentdoguin.jpg" width="150" height="150"></p>
+
+<p><em>Laurent is a Paris based Developer Advocate where he focuses on helping Java developers and the French community. He writes code in Java and blog posts in Markdown. Prior to joining Couchbase he was Nuxeo’s community liaison where he devoted his time and expertise to helping the entire Nuxeo Community become more active and efficient.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Le 31 Mars : Coding Dojo jDuchess]]></title>
