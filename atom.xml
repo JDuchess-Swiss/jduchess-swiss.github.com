@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2015-05-04T20:33:05+02:00</updated>
+  <updated>2015-09-06T17:51:59+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hands-on ElasticSearch par David Pilato]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2015/09/06/hands-on-elasticsearch-par-david-pilato/"/>
+    <updated>2015-09-06T16:34:00+02:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2015/09/06/hands-on-elasticsearch-par-david-pilato</id>
+    <content type="html"><![CDATA[<p>Le prochain 22 septembre à 19h30 nous accueillirons David Pilato qui viendra nous présenter un workshop sur <a href="https://www.elastic.co/">elasticSearch</a> et <a href="https://www.elastic.co/products/kibana">Kibana</a>.
+Le workshop aura lieu à la salle de l&#8217;<a href="http://hepia.hesge.ch/">Hepia</a>.</p>
+
+<p>Pour le workshop, vous aurez besoin :
++ JVM
++ Un navigateur web</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/david-pilato.jpeg" width="150" height="150"></p>
+
+<p>On installera elasticSearch, Kibana et Marvel et nous utiliserons ces outils pour :
++ Indexer, mettre à jour et supprimer des documents
++ Faire des recherches
++ Faires des calculs
++ Construire des dashboards pour donner du sens aux données
++ Faire un backup et récupérer ces données.</p>
+
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/elastic.jpeg" width="150" height="150"></p>
+
+<p>Il s&#8217;agit d&#8217;une sessions pour debutants qui veulent decouvrir un moteur de recherche et comment c&#8217;est facile de jouer avec.</p>
+
+<p><strong>Prérequis :</strong>
++ Java 7 minimum</p>
+
+<p>Comme d&#8217;habitude, a la fin du hands-on un buffet sera offert par nos sponsors (qui sont ceux du GenevaJug) :</p>
+
+<p><img src="http://JDuchess-Swiss.github.com/images/logo-qim.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-hortis.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-OOsphere.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-serial.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-Ilem.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-kalyss.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-sopra-steria.png" width="100"></p>
+
+<p>Inscription obligatoire sur <a href="https://www.eventbrite.fr/e/billets-hands-on-elasticsearch-par-david-pilato-18489789458">eventbrite</a>.</p>
+
+<p>À bientôt !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Le 19 Mai : RxJava, les mains dans le code]]></title>
