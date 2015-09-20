@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2015-09-06T17:51:59+02:00</updated>
+  <updated>2015-09-20T23:39:18+02:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -14,34 +14,57 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Conférence et ateliers Wikipedia 'fill the gender gap']]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2015/09/20/conference-et-ateliers-wikipedia-fill-the-gender-gap/"/>
+    <updated>2015-09-20T23:30:00+02:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2015/09/20/conference-et-ateliers-wikipedia-fill-the-gender-gap</id>
+    <content type="html"><![CDATA[<p>Le bureau de l’égalité de l’Université de Genève, en partenariat avec Wikimédia CH et la Fondation Emilie Gourd, met en place une conférence le 29 septembre “Wikipédia: qui parle de quoi ?” et une série d’ateliers sur le thème du “gender gap” sur Wikipédia. En effet, presque 90% des contributeurs sont aujourd’hui des hommes et les femmes peinent à se positionner et à se faire reconnaître en tant qu’experte.</p>
+
+<p>Les ateliers se déroulent à l’Université de Genève, entre 12:00 et 14:00 d’Octobre à Décembre 2015. La participation aux ateliers est ouverte au public mais se fera sur inscriptions via le bureau de l&#8217;égalité de l&#8217;Université de Genève. Les ateliers sont gratuits. Ils s’adressent principalement aux femmes, mais les hommes sont aussi les bienvenus.</p>
+
+<p>C’est une occasion unique (sauf si le partenariat est renouvelé l’année prochaine, mais cela dépendra probablement du succès ou non de ces ateliers).</p>
+
+<p>Pour plus d’informations:</p>
+
+<ul>
+<li><a href="http://www.unige.ch/rectorat/egalite/evenement/actualites/wikipedia/">UNIGE : Service d&#8217;égalité</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Projet:Suisse/Biographies_des_femmes_en_Suisse">Projet:Suisse/Biographies des femmes en Suisse</a></li>
+</ul>
+
+
+<p>Let’s fill the gender gap!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hands-on ElasticSearch par David Pilato]]></title>
     <link href="http://JDuchess-Swiss.github.com/blog/2015/09/06/hands-on-elasticsearch-par-david-pilato/"/>
     <updated>2015-09-06T16:34:00+02:00</updated>
     <id>http://JDuchess-Swiss.github.com/blog/2015/09/06/hands-on-elasticsearch-par-david-pilato</id>
-    <content type="html"><![CDATA[<p>Le prochain 22 septembre à 19h30 nous accueillirons David Pilato qui viendra nous présenter un workshop sur <a href="https://www.elastic.co/">elasticSearch</a> et <a href="https://www.elastic.co/products/kibana">Kibana</a>.
+    <content type="html"><![CDATA[<p>Le prochain 22 septembre à 19h30 nous accueillerons David Pilato qui viendra nous présenter un workshop sur <a href="https://www.elastic.co/">elasticSearch</a> et <a href="https://www.elastic.co/products/kibana">Kibana</a>.
 Le workshop aura lieu à la salle de l&#8217;<a href="http://hepia.hesge.ch/">Hepia</a>.</p>
 
-<p>Pour le workshop, vous aurez besoin :
+<p>Pour le workshop, vous aurez besoin de :
 + JVM
 + Un navigateur web</p>
 
 <p><img class="right" src="http://JDuchess-Swiss.github.com/images/david-pilato.jpeg" width="150" height="150"></p>
 
-<p>On installera elasticSearch, Kibana et Marvel et nous utiliserons ces outils pour :
+<p>Nous installerons elasticSearch, Kibana et Marvel et nous utiliserons ces outils pour :
 + Indexer, mettre à jour et supprimer des documents
 + Faire des recherches
-+ Faires des calculs
++ Faire des calculs
 + Construire des dashboards pour donner du sens aux données
 + Faire un backup et récupérer ces données.</p>
 
 <p><img class="left" src="http://JDuchess-Swiss.github.com/images/elastic.jpeg" width="150" height="150"></p>
 
-<p>Il s&#8217;agit d&#8217;une sessions pour debutants qui veulent decouvrir un moteur de recherche et comment c&#8217;est facile de jouer avec.</p>
+<p>Il s&#8217;agit d&#8217;une sessions pour débutants qui veulent découvrir un moteur de recherche et comme il est facile de jouer avec.</p>
 
 <p><strong>Prérequis :</strong>
 + Java 7 minimum</p>
 
-<p>Comme d&#8217;habitude, a la fin du hands-on un buffet sera offert par nos sponsors (qui sont ceux du GenevaJug) :</p>
+<p>Comme d&#8217;habitude, à la fin du hands-on un buffet sera offert par nos sponsors (qui sont ceux du GenevaJug) :</p>
 
 <p><img src="http://JDuchess-Swiss.github.com/images/logo-qim.png" width="100">
 <img src="http://JDuchess-Swiss.github.com/images/logo-hortis.png" width="100">
@@ -51,7 +74,7 @@ Le workshop aura lieu à la salle de l&#8217;<a href="http://hepia.hesge.ch/">He
 <img src="http://JDuchess-Swiss.github.com/images/logo-kalyss.png" width="100">
 <img src="http://JDuchess-Swiss.github.com/images/logo-sopra-steria.png" width="100"></p>
 
-<p>Inscription obligatoire sur <a href="https://www.eventbrite.fr/e/billets-hands-on-elasticsearch-par-david-pilato-18489789458">eventbrite</a>.</p>
+<p>Inscription obligatoire sur <a href="https://jduchesshandonelasticsearch.eventbrite.fr">eventbrite</a>.</p>
 
 <p>À bientôt !</p>
 ]]></content>
