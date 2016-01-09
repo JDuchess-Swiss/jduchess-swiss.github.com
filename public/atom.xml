@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2015-09-20T23:39:18+02:00</updated>
+  <updated>2016-01-09T20:23:22+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hands-on Spark avec Sameh Ben Fredj et Aurore Zhe Li]]></title>
+    <link href="http://JDuchess-Swiss.github.com/blog/2016/01/09/workshop-on-machine-learning/"/>
+    <updated>2016-01-09T18:48:00+01:00</updated>
+    <id>http://JDuchess-Swiss.github.com/blog/2016/01/09/workshop-on-machine-learning</id>
+    <content type="html"><![CDATA[<p>Pour bien commencer l&#8217;année, le mardi 26 Janvier nous accueillirons <a href="https://twitter.com/SamehBenF">Sameh Ben Fredj</a> et <a href="https://twitter.com/AuroreZheLI">Aurore Zhe Li</a> qui nous présenteront un hands-on sur <a href="http://spark.apache.org/">Spark</a>.</p>
+
+<p><img class="left" src="http://JDuchess-Swiss.github.com/images/Sameh.jpg" width="150" height="150"></p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/zheLi.jpeg" width="150" height="150"></p>
+
+<p>Le Big Data est souvent résumé par la capacité de stocker une très grande quantité de
+données. Mais la valeur se situe en réalité dans l’analyse de cette mine d’information. La
+visualisation des données, la sélection des caratéristiques et les algorithmes de Machine
+Learning permettent un large éventail de possibilité d’analyses. Cet atelier vous permettra
+de découvrir comment mettre en pratique la procédure de Machine Learning au travers de
+quelques exemples concrets en utilisant <a href="https://spark.apache.org/docs/0.9.0/python-programming-guide.html">PySpark</a>.</p>
+
+<p><img class="right" src="http://JDuchess-Swiss.github.com/images/PySpark_Icon.png" width="150" height="150"></p>
+
+<p><strong>Prérequis :</strong></p>
+
+<ul>
+<li>Votre laptop</li>
+<li>Avoir installé Virtual box et vagrant : voici <a href="https://drive.google.com/file/d/0Bzn4vfNuoe-5NGJPaFRTZVBlNWc/view?usp=sharing">le guide d&#8217;installation pour le workshop</a>.</li>
+</ul>
+
+
+<p>Comme d&#8217;habitude, un buffet sera offert par nos sponsors et le workshop se déroulera à l&#8217;Hepia entre 18h30 et 21h30. Inscription obligatoire sur <a href="https://www.eventbrite.fr/e/billets-hands-on-spark-avec-sameh-ben-fredj-et-aurore-zhe-li-20657943465">eventbrite</a>. Venez nombreux !</p>
+
+<p><img src="http://JDuchess-Swiss.github.com/images/logo-qim.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-hortis.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-OOsphere.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-serial.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-Ilem.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-kalyss.png" width="100">
+<img src="http://JDuchess-Swiss.github.com/images/logo-sopra-steria.png" width="100"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Conférence et ateliers Wikipedia 'fill the gender gap']]></title>
