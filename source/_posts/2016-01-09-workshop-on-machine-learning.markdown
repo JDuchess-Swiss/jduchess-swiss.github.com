@@ -3,7 +3,7 @@ layout: post
 title: "workshop_on_machine_learning"
 date: 2016-01-09 18:48
 comments: true
-title: "Hands-on Spark avec Sameh Ben Fredj et Aurore Zhe Li"
+title: "Workshop sur machine learning avec Sameh Ben Fredj et Aurore Zhe Li"
 categories: 
 ---
 Pour bien commencer l'année, le mardi 26 Janvier nous accueillirons <a href="https://twitter.com/SamehBenF">Sameh Ben Fredj</a> et <a href="https://twitter.com/AuroreZheLI">Aurore Zhe Li</a> qui nous présenteront un hands-on sur <a href="http://spark.apache.org/">Spark</a>. 
