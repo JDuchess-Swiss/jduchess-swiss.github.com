@@ -4,7 +4,7 @@
   <title><![CDATA[Duchess Swiss]]></title>
   <link href="http://JDuchess-Swiss.github.com/atom.xml" rel="self"/>
   <link href="http://JDuchess-Swiss.github.com/"/>
-  <updated>2016-01-09T20:23:22+01:00</updated>
+  <updated>2016-01-10T22:46:05+01:00</updated>
   <id>http://JDuchess-Swiss.github.com/</id>
   <author>
     <name><![CDATA[JDuchess Swiss]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hands-on Spark avec Sameh Ben Fredj et Aurore Zhe Li]]></title>
+    <title type="html"><![CDATA[Workshop sur machine learning avec Sameh Ben Fredj et Aurore Zhe Li]]></title>
     <link href="http://JDuchess-Swiss.github.com/blog/2016/01/09/workshop-on-machine-learning/"/>
     <updated>2016-01-09T18:48:00+01:00</updated>
     <id>http://JDuchess-Swiss.github.com/blog/2016/01/09/workshop-on-machine-learning</id>
