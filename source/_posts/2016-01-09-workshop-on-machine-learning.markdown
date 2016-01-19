@@ -29,6 +29,8 @@ quelques exemples concrets en utilisant <a href="https://spark.apache.org/docs/0
 
 Comme d'habitude, un buffet sera offert par nos sponsors et le workshop se déroulera à l'Hepia entre 18h30 et 21h30. Inscription obligatoire sur <a href="https://www.eventbrite.fr/e/billets-hands-on-spark-avec-sameh-ben-fredj-et-aurore-zhe-li-20657943465">eventbrite</a>. Venez nombreux !
 
+L'école est étrangère à l'organisation de cet événement.
+
 {% img /images/logo-qim.png 100 %}
 {% img /images/logo-hortis.png 100 %}
 {% img /images/logo-OOsphere.png 100 %}
